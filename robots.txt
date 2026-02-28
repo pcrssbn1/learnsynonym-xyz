@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://learnsynonym.xyz/sitemap.xml
